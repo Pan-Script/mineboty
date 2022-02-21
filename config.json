@@ -1,8 +1,8 @@
 {
     "ip": "51.79.214.116",
-    "port": "25640 ",
-    "name": "Pan_Script_Bot",
-    "auto-night-skip": "false",
+    "port": "25640",
+    "name": "Bot001",
+    "auto-night-skip": "true",
     "prefix": "",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
